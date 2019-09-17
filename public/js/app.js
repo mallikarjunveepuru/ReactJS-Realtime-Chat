@@ -105,7 +105,7 @@ var MessageForm = React.createClass({
 			React.createElement(
 				'h3',
 				null,
-				'Write New Message'
+				'Enter New Message'
 			),
 			React.createElement(
 				'form',

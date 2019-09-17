@@ -80,7 +80,7 @@ var MessageForm = React.createClass({
 	render() {
 		return(
 			<div className='message_form'>
-				<h3>Write New Message</h3>
+				<h3>Enter New Message</h3>
 				<form onSubmit={this.handleSubmit}>
 					<input
 						onChange={this.changeHandler}
